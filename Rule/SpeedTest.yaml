@@ -1,6 +1,5 @@
 # 内容：测速网站
 payload:
-  - DOMAIN-KEYWORD,emby
   - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-SUFFIX,www.speedtest.net
   - DOMAIN-SUFFIX,fast.com
