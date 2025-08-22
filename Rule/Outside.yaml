@@ -1,0 +1,7 @@
+# 内容：国外流量
+payload:
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,nginx.org
+  - DOMAIN-SUFFIX,voce.chat
+  - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-SUFFIX,crates.io
