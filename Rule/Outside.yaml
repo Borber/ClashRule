@@ -1,5 +1,9 @@
 # 内容：国外流量
 payload:
+  - DOMAIN,dns.weixin.qq.com.cn
+  - DOMAIN,short.weixin.qq.com.cn
+  - DOMAIN,szshort.weixin.qq.com.cn
+  - DOMAIN,dns.weixin.qq.com
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,nginx.org
   - DOMAIN-SUFFIX,voce.chat
